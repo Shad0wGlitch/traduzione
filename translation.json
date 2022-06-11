@@ -20,5 +20,6 @@
     "nsfw_mode_disabled": "", 
 
     "help1": "after you read, remove these strings. For translate you can choose any language you want (from the bot).",
-    "help2": "Simply just ex: nsfw_mode_enabled = nsfw mode enabled (in your translated language). Thank you!"
+    "help2": "Simply just ex: nsfw_mode_enabled = nsfw mode enabled (in your translated language). Thank you!",
+    "Languages that we need": "English, Spanish, French"
 }
