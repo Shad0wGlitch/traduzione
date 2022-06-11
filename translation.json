@@ -1,0 +1,24 @@
+{
+    "back": "",
+    "profile": "",
+    "language": "",
+    "settings": "",
+    "options": "",
+    "categories": "",
+    "enable": "",
+    "disable": "",
+    "traduction": "",
+    "change_language": "",
+    "choose_another_language": "",
+    "seen_films": "",
+    "seen_series": "",
+    "profile_information": "",
+    "subscription": "",
+    "available_films": "",
+    "available_series": "",
+    "nsfw_mode_enabled": "",
+    "nsfw_mode_disabled": "", 
+
+    "help1": "after you read, remove these strings. For translate you can choose any language you want (from the bot).",
+    "help2": "Simply just ex: nsfw_mode_enabled = nsfw mode enabled (in your translated language). Thank you!"
+}
